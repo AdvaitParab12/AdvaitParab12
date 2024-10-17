@@ -14,11 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advait0012&show_icons=true&locale=en&layout=compact" alt="advait0012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advait0012&show_icons=true&locale=en" alt="advait0012" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advait0012&" alt="advait0012" /></p>
-
-
 <!---
 advait0012/advait0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
