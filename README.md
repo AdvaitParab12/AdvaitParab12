@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Typescript,javascript**
 
 - 💬 Ask me about **HTML,CSS,SCSS,Javascript,Bootstrap,**
-- 
+
 <p align="left">
 </p>
 
