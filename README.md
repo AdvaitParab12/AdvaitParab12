@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Advait Parab</h1>
 <h3 align="center">A passionate future full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript,javascript**
-
-- 💬 Ask me about **HTML,CSS,SCSS,Javascript,Bootstrap,**
+- 🌱 I’m currently learning **Typescript,javascript**.
+- 👯 I’m looking to collaborate with everyone at my same coding level.
+- ⚡ Fun fact I am a **Pokémon** and **Anime** fan.
 
 <p align="left">
 </p>
