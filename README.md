@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Typescript,javascript**
 
 - 💬 Ask me about **HTML,CSS,SCSS,Javascript,Bootstrap,**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
