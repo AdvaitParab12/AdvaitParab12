@@ -14,6 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advait0012&show_icons=true&locale=en&layout=compact" alt="advait0012" /></p>
 
 <!---
-advait0012/advait0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AdvaitParab12/AdvaitParab12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
