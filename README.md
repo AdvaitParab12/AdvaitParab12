@@ -43,6 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AdvaitParab12/AdvaitParab12/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AdvaitParab12/AdvaitParab12/blob/output/snake.svg)
+
 
 ###
